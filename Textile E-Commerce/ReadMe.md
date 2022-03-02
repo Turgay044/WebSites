@@ -1,0 +1,1 @@
+There are a lot of file inside the project and Github does not accept more than 100 files. That is why I archive all files but I do not share the database and the bank files. You can have an idea how a commerce project is created and designed.
