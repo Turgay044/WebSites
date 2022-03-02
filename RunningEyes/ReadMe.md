@@ -1,0 +1,2 @@
+There are a lot of file inside the project and Github does not accept more than 100 files. That is why I archive all files but I do not share the database and the bank files as well as the database link connection at the web.config file. You can have an idea how a commerce project is created and designed. By the way, the web site of this project has been closed. Due to the Mb capacity of github, the files inside the Demo, Video and Yazilim folders are removed.
+This is the web page of my fast reading application.
